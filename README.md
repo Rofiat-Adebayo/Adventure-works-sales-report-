@@ -148,7 +148,9 @@ Each folder serves a specific purpose — from raw data to visual assets and doc
 _Data Analyst | Power BI | SQL | DAX | Data Storytelling_  
 
 🌐 **Portfolio:** [rofiat-adebayo.github.io](https://rofiat-adebayo.github.io/)  
-💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL]([linkedin.com/in/rofiat-adebayoo])
+📧 **Email:** [adebayorofiat004@email.com](mailto:adebayorofiat004@email.com)
+
 
 ---
 
