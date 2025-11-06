@@ -30,7 +30,7 @@ It highlights key insights in **revenue trends**, **customer segmentation**, and
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Perform an in-depth analysis of Adventure Works’ sales data to uncover trends, patterns, and performance drivers.  
 - Evaluate customer segments and identify **high-value groups** contributing most to revenue growth.  
 - Assess **product** and **regional** performance to pinpoint profitable and underperforming areas.  
@@ -69,7 +69,7 @@ It highlights key insights in **revenue trends**, **customer segmentation**, and
 
 ## 📸 Dashboard Previews
 
-###🌍 Map View
+### 🌍 Map View
 
 An interactive geographical visualization showing sales and revenue distribution across regions.
 This page helps identify top-performing countries, potential market opportunities, and areas needing improvement.
@@ -91,7 +91,8 @@ It identifies top customers, revenue contribution by segment, and purchasing beh
 
 <img width="1381" height="681" alt="advebture4" src="https://github.com/user-attachments/assets/583944e1-e11b-4945-81d3-0be38f8e08de" />
 
-> 🔗 [**View the Full Interactive Dashboard**]([LIVE_DASHBOARD_LINK_HERE](https://app.fabric.microsoft.com/reportEmbed?reportId=1e0a03d2-4e9a-43ec-ad8c-5e1870012cad&autoAuth=true&ctid=37d7521a-5079-48af-9131-4ac2cb6f1e3a))
+
+> 🔗 [**View the Full Interactive Dashboard**](https://app.fabric.microsoft.com/reportEmbed?reportId=1e0a03d2-4e9a-43ec-ad8c-5e1870012cad&autoAuth=true&ctid=37d7521a-5079-48af-9131-4ac2cb6f1e3a)> 
 
 ---
 
